@@ -1,5 +1,5 @@
 package com.rajendra.photogrid
 
 object Config {
-    const val AccessKey=""//need to put
+    const val AccessKey="YOUR_API_KEY"//need to put
 }
